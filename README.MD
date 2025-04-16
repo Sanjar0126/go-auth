@@ -1,6 +1,6 @@
 # go-fr-project
 
-A Firebase-like platform built with Go and PostgreSQL, similar to Supabase.
+A auth app built with Go and PostgreSQL.
 
 ## Features
 
